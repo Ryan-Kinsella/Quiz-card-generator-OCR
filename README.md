@@ -1,2 +1,3 @@
-# Quiz-card-generator-OCR
-is a quiz card generator where within the app you take a picture of your quiz, and cue cards are generated for you using optical character recognition. 
+![1](https://user-images.githubusercontent.com/46120322/73665054-76b2d600-466e-11ea-90c0-d0e45ae8c681.gif)
+
+![2](https://user-images.githubusercontent.com/46120322/73665248-cabdba80-466e-11ea-8e86-6f99dd012ff3.gif)
